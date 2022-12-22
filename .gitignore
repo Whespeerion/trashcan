@@ -1,0 +1,4 @@
+logs
+*.log
+timeusers/
+!Hello_World.txt
