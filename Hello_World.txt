@@ -2,5 +2,6 @@ hello world
 hello everyone
 LASER is acronym Light Amplification By Stimulated Emssion of Radiation
 new branch: new
+I study at BMSTU. I am four year student.
 
 Moscow is the capital of Russia, its political, economic and cultural center
